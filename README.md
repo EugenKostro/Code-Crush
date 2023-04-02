@@ -14,5 +14,5 @@
   - upotpunjavanje koda (nakon svake lekcije korisnik ima opciju riješiti mali zadatak u obliku koda)
   - responzivnost stranice (kreirati responzivnu stranicu za telefone)
   
-- Link na javni prototip: 
+- Link na javni prototip: https://www.figma.com/file/tb9B2eVyOgP60Ed0OiYzkf/CodeCrush---javni-prototip?t=RI3EyPucmsIWSrfc-1
 - Zaduženja Eugen Koštro: favoriti, HTML i CSS kursove, kvizovi za HTML i CSS, dropdown menu za HTML i CSS, responzvnost stranice, zadaci za svaku lekciju za HTML, CSS 
